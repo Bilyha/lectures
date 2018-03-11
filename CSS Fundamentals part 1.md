@@ -10,7 +10,6 @@
 * Pseudo-classes/elements
 * Typography
 * BEM
-***
 
 ## Links
 
