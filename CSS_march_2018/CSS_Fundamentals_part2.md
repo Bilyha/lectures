@@ -18,7 +18,7 @@
 
 ### Presentation:
 
-* [CSS. Fundamentals part 1](https://drive.google.com/file/d/1WYSKoKNyafCllgexI2h5NPs44XUKf2yV/view?usp=sharing)
+* [CSS. Fundamentals part 2](https://drive.google.com/file/d/1WYSKoKNyafCllgexI2h5NPs44XUKf2yV/view?usp=sharing)
 
 ### Useful links:
 
