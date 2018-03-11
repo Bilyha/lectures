@@ -1,8 +1,6 @@
 # CSS. Fundamentals part 1
-***
 
 ## Agenda
-***
 
 * History of CSS
 * How to insert CSS
@@ -15,7 +13,6 @@
 ***
 
 ## Links
-***
 
 ### Presentation:
 
